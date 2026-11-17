@@ -1,0 +1,10 @@
+# 数据文件体积过大（14 GB），不纳入 git 版本管理。
+# 请从 Releases 页面下载：https://github.com/tricia1353/data_climate/releases
+*.zip
+*.tif
+data/*.zip
+data/*.tif
+
+.DS_Store
+__pycache__/
+*.pyc
